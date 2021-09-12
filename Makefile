@@ -1,2 +1,1 @@
-install: 
-    pip install -e .["dev"]
+install:                                                                                          pip install -e .["dev"]
